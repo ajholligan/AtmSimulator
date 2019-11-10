@@ -1,0 +1,11 @@
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM Sim.csprojAssemblyReference.cache
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM_Sim.ATMForm.resources
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM_Sim.BankSys.resources
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM_Sim.Properties.Resources.resources
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM Sim.csproj.GenerateResource.cache
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM Sim.csproj.CoreCompileInputs.cache
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\bin\Debug\ATM Sim.exe.config
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\bin\Debug\ATM Sim.exe
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\bin\Debug\ATM Sim.pdb
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM Sim.exe
+C:\Users\aholl\source\repos\ATM Sim\ATM Sim\obj\Debug\ATM Sim.pdb
